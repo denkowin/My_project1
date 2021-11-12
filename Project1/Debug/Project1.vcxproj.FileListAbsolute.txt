@@ -1,0 +1,4 @@
+C:\Users\student.KR\Desktop\LABA12\Project1\Debug\Project1.exe
+C:\Users\student.KR\Desktop\LABA12\Project1\Debug\Project1.pdb
+D:\STEP\Основы программирования на С++\ДЗ12\LABA12\Project1\Debug\Project1.exe
+D:\STEP\Основы программирования на С++\ДЗ12\LABA12\Project1\Debug\Project1.pdb
